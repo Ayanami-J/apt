@@ -1,0 +1,11 @@
+/* 样式初始化 */
+view,swiper,navigator,swiper-item{
+  margin: 0rpx;
+  padding: 0rpx;
+  box-sizing: border-box;
+}
+image{
+  width: 100%;
+  height: 100%;
+}
+@import "./pages/my/style/iconfont.wxss";
